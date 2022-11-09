@@ -1,9 +1,10 @@
 # Udacity Data Engineer Nanodegree - Capstone Project
 
 ### Project Summary
-We'll work with four datasets to complete the project. The main dataset will include data on immigration to the United States, and supplementary datasets will include data on airport codes, U.S. city demographics, and temperature data.
+This project involves building a data warehouse with fact and dimension tables by integrating I94 immigration data, world temperature data and US demographic data.
 
 The project follows the follow steps:
+
 
 * Step 1: Scope the Project and Gather Data
 * Step 2: Explore and Assess the Data
